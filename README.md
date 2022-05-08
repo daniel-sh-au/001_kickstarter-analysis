@@ -16,13 +16,12 @@ For this analysis, the goals were broken into dollar-amount ranges to observe th
 ![Outcomes_vs_Goals.png](https://github.com/daniel-sh-au/UofT_DataBC_Module01_kickstarter-analysis/blob/main/resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
+The main challenge in this analysis was ensuring the accuracy and consistency of the data. To overcome this issue, formulas were frequently verified and files were saved to Github. 
 
 ## Results
+For the analysis of Outcomes based on Launch Date, May and June are the best months to start campaigning for a successful theater production. On the contrary, failed and cancelled campaigns did not fluctuate significantly throughout the year. It can be observed, however, that failed campaigns occurred slightly more often in summer months than in winter months. 
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
-
-- What can you conclude about the Outcomes based on Goals?
-
+For the analysis of Outcomes based on Goals, the data did not provide a clear trend. There is a slight pattern of decreasing success with increasing goal amount, but the discrepancy located between the $35,000 and $45,000 goal amount indicates an alternative factor. Further analysis with different indicators would be required to make a appropriate conclusion. 
 - What are some limitations of this dataset?
 
 - What are some other possible tables and/or graphs that we could create?
