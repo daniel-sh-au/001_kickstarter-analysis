@@ -9,10 +9,11 @@ The purpose of this analysis was to observe the Outcome of Kickstarter Campaigns
 
 ### Analysis of Outcomes Based on Launch Date
 To begin this analysis, a pivot table of the kickstarter data was created and filtered for only theater projects. Since the goal was to analyze Launch Date vs. Outcome, months were placed in the rows and outcomes were placed in the columns. Finally, a pivot chart was created to plot the theater outcomes of interest (successful, failed, cancelled) based on launch date, as shown below. The months with the most successful theater outcomes appear to be May and June.
-
 ![Theater_Outcomes_vs_Launch.png](https://github.com/daniel-sh-au/UofT_DataBC_Module01_kickstarter-analysis/blob/main/resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
+For this analysis, the goals were broken into dollar-amount ranges to observe the trends of resulting theater kickstarter campaign outcomes. The percentage of each outcome to the total project in such range was then plotted against the goal range as shown below. This chart will determine if the campaign goal range has a correlation with the success or failure of the theater production.
+![Outcomes_vs_Goals.png](https://github.com/daniel-sh-au/UofT_DataBC_Module01_kickstarter-analysis/blob/main/resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 
